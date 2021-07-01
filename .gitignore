@@ -1,0 +1,8 @@
+# object files
+*.[oa]
+#
+*.mod
+# vi temporary files
+*.sw*
+#
+*.x
